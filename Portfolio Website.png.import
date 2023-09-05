@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Portfolio Website.png-bbfdfd8e0bbe2756e0e61da247071129.stex"
+path="res://.import/Portfolio Website.png-b8cebe010756bd32e743f98b1086f64a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://test_exports/Portfolio Website.png"
-dest_files=[ "res://.import/Portfolio Website.png-bbfdfd8e0bbe2756e0e61da247071129.stex" ]
+source_file="res://test_exports/Artixios/Portfolio Website.png"
+dest_files=[ "res://.import/Portfolio Website.png-b8cebe010756bd32e743f98b1086f64a.stex" ]
 
 [params]
 
