@@ -354,7 +354,7 @@
         }
 
         if (!Engine.isWebGLAvailable()) {
-          window.open('https://www.artixios.com/misc/webgl_error.html')
+	  window.location.replace("https://www.artixios.com/misc/webgl_error.html");
         } else {
           setStatusMode("indeterminate");
           engine.startGame({
